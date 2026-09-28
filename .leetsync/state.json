@@ -1,0 +1,103 @@
+{
+  "v": 1,
+  "updatedAt": 1790611910788,
+  "devices": {
+    "1344f177-053d-465d-b3fc-8507e3d3ff92": {
+      "lastSeen": 1790611910362
+    }
+  },
+  "problems": {
+    "412": {
+      "attempts": 1,
+      "bestMemory": "11.7 MB (Beats 49%)",
+      "bestRuntime": "3 ms (Beats 31%)",
+      "date": "2026-09-28",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-28",
+      "folderName": "0412-Fizz-Buzz",
+      "language": "C++",
+      "number": 412,
+      "slug": "fizz-buzz",
+      "solutionCount": 1,
+      "tags": [
+        "Math",
+        "String",
+        "Simulation"
+      ],
+      "title": "Fizz Buzz",
+      "at": 1790611910362
+    },
+    "1281": {
+      "attempts": 1,
+      "bestMemory": "7.8 MB (Beats 56%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-28",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-28",
+      "folderName": "1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer",
+      "language": "C++",
+      "number": 1281,
+      "slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "solutionCount": 1,
+      "tags": [
+        "Math"
+      ],
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "at": 1790611910362
+    },
+    "1342": {
+      "attempts": 1,
+      "bestMemory": "8 MB (Beats 6%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-28",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-28",
+      "folderName": "1342-Number-of-Steps-to-Reduce-a-Number-to-Zero",
+      "language": "C++",
+      "number": 1342,
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "solutionCount": 1,
+      "tags": [
+        "Math",
+        "Bit Manipulation"
+      ],
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "at": 1790611910362
+    },
+    "2235": {
+      "attempts": 1,
+      "bestMemory": "8 MB (Beats 35%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-28",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-28",
+      "folderName": "2235-Add-Two-Integers",
+      "language": "C++",
+      "number": 2235,
+      "slug": "add-two-integers",
+      "solutionCount": 1,
+      "tags": [
+        "Math"
+      ],
+      "title": "Add Two Integers",
+      "at": 1790611910362
+    }
+  },
+  "achievements": {
+    "first_blood": 1790611760567
+  },
+  "sheets": {},
+  "days": [
+    "2026-09-28"
+  ],
+  "bests": {
+    "longestStreak": 1,
+    "pushes": 4
+  },
+  "identity": {
+    "installId": "146549a7-7f39-4843-9fae-1d9d5e095166",
+    "at": 1790611610340,
+    "name": "Aryan",
+    "nameAt": 1790611734969
+  }
+}
