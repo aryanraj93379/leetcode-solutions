@@ -1,12 +1,30 @@
 {
   "v": 1,
-  "updatedAt": 1790613351865,
+  "updatedAt": 1790613410749,
   "devices": {
     "1344f177-053d-465d-b3fc-8507e3d3ff92": {
-      "lastSeen": 1790613351508
+      "lastSeen": 1790613410376
     }
   },
   "problems": {
+    "9": {
+      "attempts": 2,
+      "bestMemory": "8.5 MB (Beats 65%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-28",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-28",
+      "folderName": "0009-Palindrome-Number",
+      "language": "C++",
+      "number": 9,
+      "slug": "palindrome-number",
+      "solutionCount": 1,
+      "tags": [
+        "Math"
+      ],
+      "title": "Palindrome Number",
+      "at": 1790613410376
+    },
     "412": {
       "attempts": 1,
       "bestMemory": "11.7 MB (Beats 49%)",
@@ -25,7 +43,7 @@
         "Simulation"
       ],
       "title": "Fizz Buzz",
-      "at": 1790613351508
+      "at": 1790613410376
     },
     "1281": {
       "attempts": 1,
@@ -43,7 +61,7 @@
         "Math"
       ],
       "title": "Subtract the Product and Sum of Digits of an Integer",
-      "at": 1790613351508
+      "at": 1790613410376
     },
     "1342": {
       "attempts": 1,
@@ -62,7 +80,7 @@
         "Bit Manipulation"
       ],
       "title": "Number of Steps to Reduce a Number to Zero",
-      "at": 1790613351508
+      "at": 1790613410376
     },
     "2235": {
       "attempts": 1,
@@ -80,10 +98,11 @@
         "Math"
       ],
       "title": "Add Two Integers",
-      "at": 1790613351508
+      "at": 1790613410376
     }
   },
   "achievements": {
+    "bookworm": 1790613363210,
     "first_blood": 1790611760567
   },
   "sheets": {},
@@ -92,7 +111,7 @@
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 4
+    "pushes": 5
   },
   "identity": {
     "installId": "146549a7-7f39-4843-9fae-1d9d5e095166",
