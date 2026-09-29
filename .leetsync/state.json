@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790699578734,
+  "updatedAt": 1790699811042,
   "devices": {
     "1344f177-053d-465d-b3fc-8507e3d3ff92": {
-      "lastSeen": 1790699578353
+      "lastSeen": 1790699810680
     }
   },
   "problems": {
@@ -23,7 +23,7 @@
         "Math"
       ],
       "title": "Palindrome Number",
-      "at": 1790699578353
+      "at": 1790699810680
     },
     "412": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Simulation"
       ],
       "title": "Fizz Buzz",
-      "at": 1790699578353
+      "at": 1790699810680
     },
     "1281": {
       "attempts": 1,
@@ -61,7 +61,26 @@
         "Math"
       ],
       "title": "Subtract the Product and Sum of Digits of an Integer",
-      "at": 1790699578353
+      "at": 1790699810680
+    },
+    "1295": {
+      "attempts": 1,
+      "bestMemory": "13.4 MB (Beats 34%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-29",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-29",
+      "folderName": "1295-Find-Numbers-with-Even-Number-of-Digits",
+      "language": "C++",
+      "number": 1295,
+      "slug": "find-numbers-with-even-number-of-digits",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Math"
+      ],
+      "title": "Find Numbers with Even Number of Digits",
+      "at": 1790699810680
     },
     "1342": {
       "attempts": 1,
@@ -80,7 +99,7 @@
         "Bit Manipulation"
       ],
       "title": "Number of Steps to Reduce a Number to Zero",
-      "at": 1790699578353
+      "at": 1790699810680
     },
     "2235": {
       "attempts": 1,
@@ -98,7 +117,7 @@
         "Math"
       ],
       "title": "Add Two Integers",
-      "at": 1790699578353
+      "at": 1790699810680
     }
   },
   "achievements": {
@@ -108,11 +127,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-09-28"
+    "2026-09-28",
+    "2026-09-29"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 5
+    "longestStreak": 2,
+    "pushes": 6
   },
   "identity": {
     "installId": "146549a7-7f39-4843-9fae-1d9d5e095166",
